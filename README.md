@@ -3,7 +3,7 @@
  
  **-  have a timer for 60 sec and the code will change**
  
- **- can be used for pepole who make tools on discord**
+ **- can be used for pepole who make tools on discord and other**
  
  
  
