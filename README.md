@@ -1,6 +1,6 @@
 # Discordverify
- ## - its a verify code send by webhook
- ## -  have a timer for 60 sec and the code will change  
+ ### - its a verify code send by webhook
+ ### -  have a timer for 60 sec and the code will change  
  
  
  
