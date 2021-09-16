@@ -7,4 +7,4 @@
  
  
  
-![](https://raw.githubusercontent.com/ALM7SHSH/Discordverify/main/20210916-131855.gif)
+![](https://raw.githubusercontent.com/ALM7SHSH/Discordverify/main/gif.gif)
